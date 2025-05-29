@@ -69,8 +69,8 @@ Welcome to my GitHub! I'm a final-year Software Engineering student at FAST NUCE
 ### 📈 What Sets Me Apart
 
 - I build modular, production-grade ML systems that are easy to reproduce, monitor, and deploy.
-- I automate everything: data, code, infrastructure, and deployment.
-- I thrive in remote, distributed teams and am a proactive, lifelong learner.
+- I automation freak: data, code, infrastructure, and deployment.
+- I thrive for remote, distributed teams and am a proactive, lifelong learner.
 - I prioritize clean, well-documented code to bridge research and production.
 
 ---
@@ -78,12 +78,11 @@ Welcome to my GitHub! I'm a final-year Software Engineering student at FAST NUCE
 ### 📫 Let’s Connect!
 
 - [LinkedIn](https://linkedin.com/in/Abdullah9213)
-- [Email](mailto:your.email@example.com)
-- [Portfolio](https://yourportfolio.com)
+- [Email](mailto:abdullah.gheffer@gmail.com)
 
 ---
 
-**Currently seeking roles in ML Tooling, MLOps, and backend engineering. Excited to help bridge research and production at scale!**
+**Currently seeking roles in ML, and backend engineering. Excited to help bridge research and production at scale!**
 
 ---
 
