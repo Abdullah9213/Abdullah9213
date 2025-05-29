@@ -76,12 +76,12 @@ Welcome to my GitHub! I'm a final-year Software Engineering student at FAST NUCE
 
 ### 📫 Let’s Connect!
 
-- [LinkedIn](https://linkedin.com/in/Abdullah9213)
+- [LinkedIn](www.linkedin.com/in/abdullah-ghaffar-97b050249)
 - [Email](mailto:abdullah.gheffer@gmail.com)
 
 ---
 
-**Currently seeking roles in ML, and backend engineering. Excited to help bridge research and production at scale!**
+**Currently seeking roles in ML and backend engineering. Excited to help bridge research and production at scale!**
 
 ---
 
