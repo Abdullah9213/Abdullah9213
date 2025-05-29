@@ -10,10 +10,10 @@ Welcome to my GitHub! I'm a final-year Software Engineering student at FAST NUCE
 
 - **ML Tooling & Production:** Designing end-to-end ML pipelines, model deployment, reproducibility, and automation.
 - **Backend Engineering:** Developing REST APIs, microservices, and cloud-native systems.
-- **DevOps/MLOps:** Mastering CI/CD pipelines, containerization with Docker, cloud infrastructure (AWS, Azure, GCP), and experiment tracking with ClearML and WandB.
-- **Programming Languages:** Proficient in Python, C++, SQL, C#, JavaScript.
+- **DevOps/MLOps:** Mastering CI/CD pipelines, containerization with Docker, and cloud infrastructure (AWS).
+- **Programming Languages:** Proficient in Python, C++, SQL.
 - **ML Frameworks:** Experienced with PyTorch, scikit-learn, TensorFlow, and NLP tools like spaCy.
-- **Cloud & Infrastructure:** Skilled in deploying applications on AWS (EC2, S3), Azure (VM, Blob), and GCP (Compute, Filestore).
+- **Cloud & Infrastructure:** Exposure to AWS (EC2).
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
@@ -21,8 +21,7 @@ Welcome to my GitHub! I'm a final-year Software Engineering student at FAST NUCE
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![ClearML](https://img.shields.io/badge/ClearML-3572A5?style=for-the-badge&logo=clearml&logoColor=white)](https://clear.ml/)
-[![WandB](https://img.shields.io/badge/WandB-8BE0A6?style=for-the-badge&logo=wandb&logoColor=white)](https://wandb.ai/)
+
 
 ---
 
