@@ -1,6 +1,6 @@
 # Hi, I'm Abdullah 👋
 
-## Software Engineer | ML Tooling & Production | Python, PyTorch, MLOps, Cloud
+## Software Engineer | Python, PyTorch, MLOps, Cloud Enthusiast
 
 Welcome to my GitHub! I'm a final-year Software Engineering student at FAST NUCES, Islamabad, passionate about building robust ML production systems, scalable backend services, and automation-first DevOps/MLOps pipelines. I thrive on making research deployable, reproducible, and impactful, with a focus on end-to-end ML pipelines and cloud deployments.
 
