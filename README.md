@@ -72,128 +72,72 @@ class Abdullah_Ghaffar(SoftwareEngineer):
 
 ### 🚀 Featured Engineering Projects
 
-<table width="100%">
-<tr>
-<td width="60%">
-<h3 align="left"><a href="https://github.com/Abdullah9213/FYPilot">🎓 FYPilot: AI-Enhanced Management System</a></h3>
-<ul>
-<li><b>The Challenge:</b> University portal crashing during registration (50k+ students).</li>
-<li><b>The Engineering:</b> Implemented <b>Redis Cache-Aside</b> pattern and connection pooling.</li>
-<li><b>The Result:</b> 0% downtime at 52,500 concurrent users. Response time <b>&lt;2ms</b>.</li>
-<li><b>Tech:</b> Node.js, Redis, Python Microservices (BERT), PostgreSQL.</li>
-</ul>
-</td>
-<td width="40%" align="center">
-	<img src="https://img.shields.io/badge/Scale-52k%2B_Users-success?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="Scale" />
-	<br /><br />
-	<a href="https://github.com/Abdullah9213/FYPilot">
-		<img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" />
-	</a>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td width="60%">
-<h3 align="left"><a href="https://github.com/Abdullah9213/Mandi-Express">🚜 Mandi Express: Production MLOps</a></h3>
-<ul>
-<li><b>The Challenge:</b> Static models failing due to volatile market data drift.</li>
-<li><b>The Engineering:</b> Built a self-healing pipeline. <b>Grafana</b> detects drift &gt;30%, triggering <b>Airflow</b> DAGs to retrain/deploy via <b>DVC</b>.</li>
-<li><b>Tech:</b> Apache Airflow, DVC, MLflow, Prometheus, Docker.</li>
-</ul>
-</td>
-<td width="40%" align="center">
-	<img src="https://img.shields.io/badge/MLOps-Self--Healing-blueviolet?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="MLOps" />
-	<br /><br />
-	<a href="https://github.com/Abdullah9213/Mandi-Express">
-		<img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" />
-	</a>
-</td>
-</tr>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="60%" valign="top" style="border: none; padding: 10px;">
+      <h3 align="left" style="margin-top: 0;">
+        <a href="https://github.com/Abdullah9213/FYPilot">🎓 FYPilot: AI-Enhanced Management System</a>
+      </h3>
+      <ul>
+        <li><b>The Challenge:</b> University portal crashing during registration (50k+ students).</li>
+        <li><b>The Engineering:</b> Implemented <b>Redis Cache-Aside</b> pattern and connection pooling.</li>
+        <li><b>The Result:</b> 0% downtime at 52,500 concurrent users. Response time <b>&lt;2ms</b>.</li>
+        <li><b>Tech:</b> Node.js, Redis, Python Microservices (BERT), PostgreSQL.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/Scale-52k%2B_Users-success?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="Scale" />
+      <br /><br />
+      <a href="https://github.com/Abdullah9213/FYPilot">
+        <img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" />
+      </a>
+    </td>
+  </tr>
 </table>
+<table width="100%" border="0"> <tr> <td width="60%" valign="top"> <h3 align="left"><a href="https://github.com/Abdullah9213/Mandi-Express">🚜 Mandi Express: Production MLOps</a></h3> <ul> <li><b>The Challenge:</b> Static models failing due to volatile market data drift.</li> <li><b>The Engineering:</b> Built a self-healing pipeline. <b>Grafana</b> detects drift >30%, triggering <b>Airflow</b> DAGs to retrain/deploy via <b>DVC</b>.</li> <li><b>Tech:</b> Apache Airflow, DVC, MLflow, Prometheus, Docker.</li> </ul> </td> <td width="40%" align="center" valign="middle"> <img src="https://img.shields.io/badge/MLOps-Self--Healing-blueviolet?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="MLOps" /> <br /><br /> <a href="https://github.com/Abdullah9213/Mandi-Express"> <img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" /> </a> </td> </tr> </table>
 
-<table width="100%">
-<tr>
-<td width="60%">
-<h3 align="left"><a href="https://github.com/Abdullah9213/Sijjil-Mark-V">🛡️ Sijjil Mark-V: Edge Defense System</a></h3>
-<ul>
-<li><b>The Challenge:</b> AI processors thermally throttling in 50°C environments.</li>
-<li><b>The Engineering:</b> Redesigned chassis (Die-Cast Aluminum) for passive cooling. Optimized YOLOv8 for NPU inference.</li>
-<li><b>Tech:</b> Edge AI, Thermal Engineering, YOLO, Computer Vision.</li>
-</ul>
-</td>
-<td width="40%" align="center">
-	<img src="https://img.shields.io/badge/Hardware-Edge_Compute-orange?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Hardware" />
-	<br /><br />
-	<a href="https://github.com/Abdullah9213/Sijjil-Mark-V">
-		<img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" />
-	</a>
-</td>
-</tr>
-</table>
+<table width="100%" border="0"> <tr> <td width="60%" valign="top"> <h3 align="left"><a href="https://github.com/Abdullah9213/Sijjil-Mark-V">🛡️ Sijjil Mark-V: Edge Defense System</a></h3> <ul> <li><b>The Challenge:</b> AI processors thermally throttling in 50°C environments.</li> <li><b>The Engineering:</b> Redesigned chassis (Die-Cast Aluminum) for passive cooling. Optimized YOLOv8 for NPU inference.</li> <li><b>Tech:</b> Edge AI, Thermal Engineering, YOLO, Computer Vision.</li> </ul> </td> <td width="40%" align="center" valign="middle"> <img src="https://img.shields.io/badge/Hardware-Edge_Compute-orange?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Hardware" /> <br /><br /> <a href="https://github.com/Abdullah9213/Sijjil-Mark-V"> <img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" /> </a> </td> </tr> </table>
 
-<table width="100%">
-<tr>
-<td width="60%">
-<h3 align="left"><a href="https://github.com/Abdullah9213/TMS-FAST">🗄️ TMS-FAST: Database Engine</a></h3>
-<ul>
-<li><b>The Challenge:</b> Managing complex academic relationships with data integrity.</li>
-<li><b>The Engineering:</b> Designed a normalized 3NF schema. Used Stored Procedures & Indexing to optimize complex joins.</li>
-<li><b>Tech:</b> SQL Server, Locust (Load Testing), Database Design.</li>
-</ul>
-</td>
-<td width="40%" align="center">
-	<img src="https://img.shields.io/badge/Database-Optimized_SQL-00599C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Database" />
-	<br /><br />
-	<a href="https://github.com/Abdullah9213/TMS-FAST">
-		<img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" />
-	</a>
-</td>
-</tr>
-</table>
+<table width="100%" border="0"> <tr> <td width="60%" valign="top"> <h3 align="left"><a href="https://github.com/Abdullah9213/TMS-FAST">🗄️ TMS-FAST: Database Engine</a></h3> <ul> <li><b>The Challenge:</b> Managing complex academic relationships with data integrity.</li> <li><b>The Engineering:</b> Designed a normalized 3NF schema. Used Stored Procedures & Indexing to optimize complex joins.</li> <li><b>Tech:</b> SQL Server, Locust (Load Testing), Database Design.</li> </ul> </td> <td width="40%" align="center" valign="middle"> <img src="https://img.shields.io/badge/Database-Optimized_SQL-00599C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Database" /> <br /><br /> <a href="https://github.com/Abdullah9213/TMS-FAST"> <img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" /> </a> </td> </tr> </table>
 
-<details>
-<summary><b>Click to view Automation & ETL Projects (NASA & AutoML)</b></summary>
+<details> <summary><b>Click to view Automation & ETL Projects (NASA & AutoML)</b></summary>
 
-<table width="100%">
-<tr>
-<td width="50%">
-<h4 align="left"><a href="https://github.com/Abdullah9213/NASA_OPAD_Project">🌌 NASA APOD Automation</a></h4>
-<p>Automated ETL pipeline using <b>Astro Cloud</b> & <b>Supabase</b>. Extracts daily imagery, creates metadata, and versions data automatically via Git.</p>
-</td>
-<td width="50%">
-<h4 align="left"><a href="https://github.com/Abdullah9213/ML-Pipeline-Automation">🎛️ ML Workflow Automation</a></h4>
-<p><b>Streamlit</b> based AutoML tool. Automates data ingestion, scaling, and benchmarking. Includes specialized module for Audio Emotion Recognition (RAVDESS).</p>
-</td>
-</tr>
-</table>
+<table width="100%" border="0"> <tr> <td width="50%" valign="top"> <h4 align="left"><a href="https://github.com/Abdullah9213/NASA_OPAD_Project">🌌 NASA APOD Automation</a></h4> <p>Automated ETL pipeline using <b>Astro Cloud</b> & <b>Supabase</b>. Extracts daily imagery, creates metadata, and versions data automatically via Git.</p> </td> <td width="50%" valign="top"> <h4 align="left"><a href="https://github.com/Abdullah9213/ML-Pipeline-Automation">🎛️ ML Workflow Automation</a></h4> <p><b>Streamlit</b> based AutoML tool. Automates data ingestion, scaling, and benchmarking. Includes specialized module for Audio Emotion Recognition (RAVDESS).</p> </td> </tr> </table>
 
 </details>
 
 <br />
 
-### Engineering Metrics
+
+### 📊 Engineering Metrics & Momentum
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah9213&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah9213&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah9213&theme=github-compact&hide_border=true&area=true&color=2E91E3" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah9213&theme=flat&no-frame=true&margin-w=15&column=7" alt="Trophies" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdullah9213&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdullah9213&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah9213&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abdullah9213&theme=flat&no-frame=true&margin-w=15&column=7&cache=1" alt="Trophies" />
 </div>
 
-<hr />
+<br />
+
+### 🐍 The Contribution Grind
+<div align="center">
+<img src="https://raw.githubusercontent.com/Abdullah9213/Abdullah9213/output/github-snake.svg" width="100%" alt="GitHub Snake" />
+</div>
+
+<br />
 
 <div align="center">
-  <sub><i>"Engineering is the art of modeling materials we do not wholly understand, into shapes we cannot precisely analyze, so as to withstand forces we cannot properly assess, in such a way that the public has no reason to suspect the extent of our ignorance."</i></sub>
+<img src="https://komarev.com/ghpvc/?username=Abdullah9213&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
