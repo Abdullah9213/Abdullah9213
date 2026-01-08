@@ -1,103 +1,199 @@
-# Hi, I'm Abdullah 👋
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2E91E3&center=true&vCenter=true&width=800&lines=System+Architect+%7C+Physics-First+AI;Building+Systems+for+50%2C000%2B+Users;Engineering+Resilient+MLOps+Pipelines;Solving+Thermal+Constraints+at+the+Edge" alt="Typing SVG" />
+	</a>
+</div>
+<div align="center">
+	<a href="https://www.linkedin.com/in/abdullah-ghaffar--">
+		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="mailto:abdullah.gheffer@gmail.com">
+		<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+	</a>
+	<a href="https://github.com/Abdullah9213">
+		<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+	</a>
+</div>
 
-## Software Engineer | Python, PyTorch, MLOps, Cloud Enthusiast
+<br />
 
-Welcome to my GitHub! I'm a final-year Software Engineering student at FAST NUCES, Islamabad, passionate about building robust ML production systems, scalable backend services, and automation-first DevOps/MLOps pipelines. I thrive on making research deployable, reproducible, and impactful, with a focus on end-to-end ML pipelines and cloud deployments.
+### 👨‍💻 The Source Code
 
----
+```python
+class Abdullah_Ghaffar(SoftwareEngineer):
+		def __init__(self):
+				self.name = "Abdullah Ghaffar"
+				self.role = "System Architect & MLOps Engineer"
+				self.education = "FAST-NU (BS Software Engineering)"
+				self.focus = [
+						"High-Concurrency Distributed Systems",
+						"Hardware-Aware Edge AI",
+						"Automated MLOps Pipelines"
+				]
 
-### 🌟 My Focus & Expertise
+		def get_philosophy(self):
+				return {
+						"Scale": "It's not real until it handles 50k users.",
+						"Physics": "Code must respect thermal & hardware limits.",
+						"Automation": "If you do it twice, script it."
+				}
+```
 
-- **ML Tooling & Production:** Designing end-to-end ML pipelines, model deployment, reproducibility, and automation.
-- **Backend Engineering:** Developing REST APIs, microservices, and cloud-native systems.
-- **DevOps/MLOps:** Mastering CI/CD pipelines, containerization with Docker, and cloud infrastructure (AWS).
-- **Programming Languages:** Proficient in Python, C++, SQL.
-- **ML Frameworks:** Experienced with PyTorch, scikit-learn, TensorFlow, and NLP tools like spaCy.
-- **Cloud & Infrastructure:** Exposure to AWS (EC2).
+<br />
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+### 🛠️ Technical Arsenal
 
+<table align="center">
+	<tr>
+		<td align="center" >
+			<img src="https://skillicons.dev/icons?i=python,cpp,ts" width="120" height="40" alt="Languages" />
+			<br /><b>Core</b>
+		</td>
+		<td align="center" >
+			<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis" width="150" height="40" alt="Backend" />
+			<br /><b>Backend</b>
+		</td>
+		<td align="center" >
+			<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,grafana" width="180" height="40" alt="DevOps" />
+			<br /><b>Infra</b>
+		</td>
+		<td align="center" >
+			<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" width="150" height="40" alt="AI" />
+			<br /><b>AI/ML</b>
+		</td>
+		<td align="center" >
+			<img src="https://skillicons.dev/icons?i=git,githubactions,linux" width="120" height="40" alt="Tools" />
+			<br /><b>Tools</b>
+		</td>
+	</tr>
+</table>
 
----
+<br />
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
-#### 1. [Machine Learning Workflow Automation Platform](https://github.com/Abdullah9213/ml-workflow-automation)
-- Built an interactive application using Python, Streamlit, scikit-learn, TensorFlow, and librosa to automate ML workflows.
-- Features data ingestion, preprocessing, model selection, evaluation, and visualization, reducing prototyping time.
-- Showcases skills in building scalable ML tooling for production environments.
+<table width="100%">
+<tr>
+<td width="60%">
+<h3 align="left"><a href="https://github.com/Abdullah9213/FYPilot">🎓 FYPilot: AI-Enhanced Management System</a></h3>
+<ul>
+<li><b>The Challenge:</b> University portal crashing during registration (50k+ students).</li>
+<li><b>The Engineering:</b> Implemented <b>Redis Cache-Aside</b> pattern and connection pooling.</li>
+<li><b>The Result:</b> 0% downtime at 52,500 concurrent users. Response time <b>&lt;2ms</b>.</li>
+<li><b>Tech:</b> Node.js, Redis, Python Microservices (BERT), PostgreSQL.</li>
+</ul>
+</td>
+<td width="40%" align="center">
+	<img src="https://img.shields.io/badge/Scale-52k%2B_Users-success?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="Scale" />
+	<br /><br />
+	<a href="https://github.com/Abdullah9213/FYPilot">
+		<img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" />
+	</a>
+</td>
+</tr>
+</table>
 
-#### 2. [Audio Emotion Recognition with CNNs](https://github.com/Abdullah9213/audio-emotion-recognition)
-- Developed a CNN-based model for audio emotion recognition using Python, TensorFlow, and librosa.
-- Achieved high accuracy on the RAVDESS dataset, demonstrating practical ML model development and evaluation.
+<table width="100%">
+<tr>
+<td width="60%">
+<h3 align="left"><a href="https://github.com/Abdullah9213/Mandi-Express">🚜 Mandi Express: Production MLOps</a></h3>
+<ul>
+<li><b>The Challenge:</b> Static models failing due to volatile market data drift.</li>
+<li><b>The Engineering:</b> Built a self-healing pipeline. <b>Grafana</b> detects drift &gt;30%, triggering <b>Airflow</b> DAGs to retrain/deploy via <b>DVC</b>.</li>
+<li><b>Tech:</b> Apache Airflow, DVC, MLflow, Prometheus, Docker.</li>
+</ul>
+</td>
+<td width="40%" align="center">
+	<img src="https://img.shields.io/badge/MLOps-Self--Healing-blueviolet?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="MLOps" />
+	<br /><br />
+	<a href="https://github.com/Abdullah9213/Mandi-Express">
+		<img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" />
+	</a>
+</td>
+</tr>
+</table>
 
-#### 3. [Find a Doctor - Backend](https://github.com/Abdullah9213/findadoctor-backend)
-- Created a backend service for a doctor-finding application using JavaScript and Node.js.
-- Involved REST API development, database management, and frontend integration, highlighting backend engineering skills.
+<table width="100%">
+<tr>
+<td width="60%">
+<h3 align="left"><a href="https://github.com/Abdullah9213/Sijjil-Mark-V">🛡️ Sijjil Mark-V: Edge Defense System</a></h3>
+<ul>
+<li><b>The Challenge:</b> AI processors thermally throttling in 50°C environments.</li>
+<li><b>The Engineering:</b> Redesigned chassis (Die-Cast Aluminum) for passive cooling. Optimized YOLOv8 for NPU inference.</li>
+<li><b>Tech:</b> Edge AI, Thermal Engineering, YOLO, Computer Vision.</li>
+</ul>
+</td>
+<td width="40%" align="center">
+	<img src="https://img.shields.io/badge/Hardware-Edge_Compute-orange?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Hardware" />
+	<br /><br />
+	<a href="https://github.com/Abdullah9213/Sijjil-Mark-V">
+		<img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" />
+	</a>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td width="60%">
+<h3 align="left"><a href="https://github.com/Abdullah9213/TMS-FAST">🗄️ TMS-FAST: Database Engine</a></h3>
+<ul>
+<li><b>The Challenge:</b> Managing complex academic relationships with data integrity.</li>
+<li><b>The Engineering:</b> Designed a normalized 3NF schema. Used Stored Procedures & Indexing to optimize complex joins.</li>
+<li><b>Tech:</b> SQL Server, Locust (Load Testing), Database Design.</li>
+</ul>
+</td>
+<td width="40%" align="center">
+	<img src="https://img.shields.io/badge/Database-Optimized_SQL-00599C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Database" />
+	<br /><br />
+	<a href="https://github.com/Abdullah9213/TMS-FAST">
+		<img src="https://img.shields.io/badge/View_Code-Repository-2ea44f?style=flat-square&logo=github" alt="View Code" />
+	</a>
+</td>
+</tr>
+</table>
 
-### 🛠️ Skills & Tools
+<details>
+<summary><b>Click to view Automation & ETL Projects (NASA & AutoML)</b></summary>
 
-| **Category**          | **Technologies**                                      |
-|-----------------------|------------------------------------------------------|
-| **Programming Languages** | Python, C++, SQL, C#, JavaScript                   |
-| **ML Frameworks**     | PyTorch, scikit-learn, TensorFlow, spaCy           |
-| **DevOps/MLOps**      | Docker, GitHub Actions, ClearML, WandB, DVC        |
-| **Cloud Platforms**   | AWS (EC2, S3), Azure (VM, Blob), GCP (Compute, Filestore) |
-| **Other Tools**       | Git, REST APIs, Linux, VSCode, matplotlib, seaborn |
+<table width="100%">
+<tr>
+<td width="50%">
+<h4 align="left"><a href="https://github.com/Abdullah9213/NASA_OPAD_Project">🌌 NASA APOD Automation</a></h4>
+<p>Automated ETL pipeline using <b>Astro Cloud</b> & <b>Supabase</b>. Extracts daily imagery, creates metadata, and versions data automatically via Git.</p>
+</td>
+<td width="50%">
+<h4 align="left"><a href="https://github.com/Abdullah9213/ML-Pipeline-Automation">🎛️ ML Workflow Automation</a></h4>
+<p><b>Streamlit</b> based AutoML tool. Automates data ingestion, scaling, and benchmarking. Includes specialized module for Audio Emotion Recognition (RAVDESS).</p>
+</td>
+</tr>
+</table>
 
----
+</details>
 
-### 🎓 Education & Certifications
+<br />
 
-- **Bachelor of Science in Software Engineering**  
-  FAST NUCES, Islamabad  
-  Expected Graduation: 2025
+### Engineering Metrics
 
-- **Certification in Generative AI**  
-  Google, 2024
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah9213&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah9213&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Languages" />
+</div>
 
----
+<br />
 
-### 📈 What Sets Me Apart
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah9213&theme=flat&no-frame=true&margin-w=15&column=7" alt="Trophies" />
+</div>
 
-- I build modular, production-grade ML systems that are easy to reproduce, monitor, and deploy.
-- I automation freak: data, code, infrastructure, and deployment.
-- I thrive for remote, distributed teams and am a proactive, lifelong learner.
-- I prioritize clean, well-documented code to bridge research and production.
+<br />
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdullah9213&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-### 📫 Let’s Connect!
+<hr />
 
-- [LinkedIn](www.linkedin.com/in/abdullah-ghaffar-97b050249)
-- [Email](mailto:abdullah.gheffer@gmail.com)
-
----
-
-**Currently seeking roles in ML and backend engineering. Excited to help bridge research and production at scale!**
-
----
-
-### 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah9213&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📋 Table of Contents
-
-- [Introduction](#hi-im-abdullah-)
-- [My Focus & Expertise](#-my-focus--expertise)
-- [Featured Projects](#-featured-projects)
-- [Skills & Tools](#-skills--tools)
-- [Education & Certifications](#-education--certifications)
-- [What Sets Me Apart](#-what-sets-me-apart)
-- [Let’s Connect!](#-lets-connect)
-- [GitHub Stats](#-github-stats)
+<div align="center">
+  <sub><i>"Engineering is the art of modeling materials we do not wholly understand, into shapes we cannot precisely analyze, so as to withstand forces we cannot properly assess, in such a way that the public has no reason to suspect the extent of our ignorance."</i></sub>
+</div>
